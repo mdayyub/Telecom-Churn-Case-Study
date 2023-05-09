@@ -56,3 +56,4 @@ In this case, since you are working over a four-month window, the first two mont
 
 ### Data dictionary
 The dataset can be downloaded using [this link](https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view?usp=sharing). The data dictionary is provided for download below.
+[Data dictionary](Data+Dictionary-+Telecom+Churn+Case+Study.xlsx)
